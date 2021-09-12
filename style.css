@@ -1,0 +1,80 @@
+#menu{
+    position: sticky;
+    top: 0;
+    z-index: 99999999;
+}
+#img1{
+    width: 300px;
+    border-radius: 10px;
+    border-style: groove;
+    border-width: 5px;
+    border-color: grey;
+}
+#img1:hover{
+    width: 315px;
+    border-radius: 10px;
+    border-style: groove;
+    border-width: 7px;
+    border-color: red;
+}
+#ans{
+    color:firebrick;
+    text-align:justify;
+    padding-left: 75px;
+    padding-right: 75px;
+    font-weight: bold;
+}
+li:hover{
+    background-color: steelblue;
+}
+html{
+    scroll-behavior: smooth;
+}
+#img2{
+    width: 300px;
+    border-radius: 10px;
+    border-style: groove;
+    border-width: 5px;
+    border-color: grey;
+}
+#img2:hover{
+    width: 315px;
+    border-radius: 10px;
+    border-style: groove;
+    border-width: 7px;
+    border-color:maroon;
+}
+.question{
+    color: steelblue;
+    font-weight: bold;
+}
+.faq-ans{
+    color: violet;
+    font-weight: bolder;
+    text-align: justify;
+    padding-right: 120px;
+    padding-left: 120px;
+}
+h4{
+    color:slateblue;
+    font-weight: bold;
+}
+.homeimg{
+    width: 450px;
+}
+.resource-img{
+    width: 250px;
+    border-radius: 5px;
+    border-width: 5px;
+    border-color: gray;
+}
+.resource-img:hover{
+    border-color: gold;
+}
+#doggos{
+    width: 750px;
+    border-radius: 15px;
+    border-width: 7px;
+    border-color: firebrick;
+    border-style: solid;
+}
